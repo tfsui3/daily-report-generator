@@ -22,7 +22,7 @@ A Tampermonkey script designed specifically for the KwickPOS system to automatic
 2. Enter the following information:
    - Date (MM-DD format)
    - Username
-   - Shift information (S/N...)
+   - Shift information (Like S, SOD, LOG, 3PP)
 3. Click the "Generate Daily Report" button to generate the report
 4. Use the "Copy Report" button to copy the report content
 
