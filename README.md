@@ -8,7 +8,7 @@ A Tampermonkey script designed specifically for the KwickPOS system to automatic
    - [Edge Version](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. Click the link below to install the script:
-   [Install Script](https://raw.githubusercontent.com/tfsui3/daily-report-generator/main/daily-report.user.js)
+   [Install Script](https://github.com/tfsui3/daily-report-generator/raw/refs/heads/main/daily-report.user.js)
 
 ## Features
 - Automatically generate work reports for specified dates
