@@ -7,8 +7,14 @@ A Tampermonkey script designed specifically for the KwickPOS system to automatic
    - [Firefox Version](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
    - [Edge Version](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
-2. Click the link below to install the script:
+2. Top Right > 3 dots > Extensions > Manage Extensions > Top right > Enable Developer Mode
+
+3. Click the link below to install the script:
    [Install Script](https://github.com/tfsui3/daily-report-generator/raw/refs/heads/main/daily-report.user.js)
+
+4. Install
+
+5. Go to: https://kwickpos.com/mon/logreport.php , and use it
 
 ## Features
 - Automatically generate work reports for specified dates
